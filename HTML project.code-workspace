@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../TURBOC3/BIN/graphic c++"
+		}
+	],
+	"launch": {
+		"version": "0.2.0",
+		"configurations": []
+	}
+}
